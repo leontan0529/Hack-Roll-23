@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> ePortfolio </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel = "stylesheet" type="text/css" href = "{{ url_for('static', filename='styles/education.css') }}">
+
+</head>
+<body>
+
+<div class="header">
+  <h1> Name </h1>
+  <p> My E-Portfolio </p>
+</div>
+
+<div class = "navbar">
+  <a href = "{{ url_for('home') }}"><span style = "color: black"> Home </span> </a>
+  <a class = "navbarindiv" href = "../education/education.html"><span style = "color:black"> Education </span> </a>
+  <a href = "{{ url_for('experience') }}"><span style = "color: black"> Past Experiences </span> </a>
+  <a href = "{{ url_for('awards') }}"><span style = "color: black">Awards and Honours</span></a>
+</div>
+
+<div class="main">
+  <h2 style = "margin-bottom: 50px; font-size: 32px"> Education Records </h2>
+  <p class = "header_text" > Bachelor of Science (Computer Science), Class of 2026 </p>
+  <p style = "margin-bottom: 50px"> Studied at National University of Singapore </p>
+  <p class = "header_text"> GCE 'A' Levels </p> 
+  <p style = "margin-bottom: 50px"> Studied at Hwa Chong Institution </p>
+</div>
+
+</body>
+</html>

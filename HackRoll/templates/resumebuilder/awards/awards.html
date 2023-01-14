@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> ePortfolio </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel = "stylesheet" type="text/css" href = "{{ url_for('static', filename='styles/awards.css') }}">
+
+</head>
+<body>
+
+<div class="header">
+  <h1>Name</h1>
+  <p>My E-Portfolio</p>
+</div>
+
+<div class="navbar">
+  <a href = "{{ url_for('home') }}"><span style = "color: black"> Home </span> </a>
+  <a href = "{{ url_for('education') }}"><span style = "color: black"> Education </span></a>
+  <a href = "{{ url_for('experience') }}"><span style = "color: black"> Past Experiences </span> </a>
+  <a class = "navbarindiv" href = "awards.html"><span style = "color:black"> Awards and Honors </span></a>
+</div>
+
+<div class="main">
+  <h2 style = "margin-bottom: 50px; font-size: 32px"> Awards </h2>  <br>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+﻿Leon Tan Li Yang
+Mobile: +65 90913350 · Email: e0958011@u.nus.edu · LinkedIn: linkedin.com/in/leon-tan
+
+
+EDUCATION
+National University of Singapore                                                                       Aug 2022 - Present                                                               
+Bachelor of Engineering (Electrical Engineering), Honours
+· Current Cumulative Average Point (CAP): 5.0/5.0
+· Expected Date of Graduation: Jul 2026 
+· Relevant modules completed: Programming Methodology (Python)
+
+WORK AND INTERNSHIP EXPERIENCES
+Prometheus-Communications PTE LTD, Software Engineer	Nov 2021 - Present
+· Designed and assembled electronic components such as Raspberry Pi, Arduino and sensors to build PromSatellite (PromSAT) MK3.
+· Debugged and improved PromCORE’s software and system efficiency in Docker environment.
+· Rectified server error for NCS to recover the Environment Monitoring System (EMS).
+· Directed PromSAT MK4 project to create an all-in-one monitoring device, reducing overall cost by 40%.
+· Communicated with Reliance and NCS to ensure installation of EMS sites.
+· Revised company’s PrometheusDash (Grafana) with newer dashboards to log errors and analyse data trends.
+
+Singapore Armed Forces, Infantry Specialist (National Service)	Sep 2020 - Nov 2021
+· Commanded main assault Platoon 8 Section 1 as Section Commander and Platoon 8 as Platoon Sergeant.
+· Conducted trainings and delivered 85% platoon IPPT Gold and REDCON1 during evaluations. 
+· Coordinated company’s staff aids to ensure necessary mission planning resources.
+· Awarded twice Company Best Commander by officer in command for outstanding service and leadership.
+
+PROJECTS AND ACTIVITIES 
+Climate Hackathon’22	May 2022 - Jun 2022
+· Developed a database server and dashboards to track and analyse emissions from shipping and it’s environmental and biodiversity impacts.
+· Developed using PostgreSQL, Pandas, PowerBI and Microsoft Azure.
+
+CO-CURRICULAR ACTIVITIES AND VOLUNTEER EXPERIENCES
+Member, The Boys’ Brigade 19th Singapore Company	Jan 2014 - Present
+· Developed Boys in terms of character, leadership and achieve the Object of the brigade.
+· Headed company as Company Sergeant Major in 2016 and Chairman of Primer’s Committee in 2018.
+· Executed and coordinated BB Cares and BBSG annually since 2016 to help the needy in Singapore.
+
+Member, Hwa Chong Junior College Interact Club	Mar 2018 - May 2019
+· Volunteered weekly visit for elderly living in Enuos.
+· Spearheaded Hunger Trials’19 as Project Manager and participated Hunger Trials’18 as Team Leader.
+· Participated in Project Bisrama’18 to interact and help foreign workers in Singapore.
+
+Chairman, Project Espirit 2018	Apr 2018 - Jun 2019
+· Collaborated with Evangel Family church to provide free tuition for primary children from low-income families.
+
+Organising Committee Member, Project Happiness	Aug 2018 - Jun 2019
+· Joined with Happy People Helping People to interact and serve independently living elderly in Singapore.
+· Partnered with Resort World Sentosa Singapore to organize an outing for the elderly at Gardens By The Bay.
+· Raised funds and necessities for elderly.
+
+Chairman, Overseas Community Initiated Project in China	Mar 2018 - Aug 2018
+· Led peers and seniors raise funds and education materials for orphans in Hainan.
+· Discussed with villagers in Hainan to understand and resolve existing problems.
+· Organised outing and amazing race for children from low-income families in Singapore.
+
+ADDITIONAL INFORMATION
+· Fluent in English and Chinese (spoken and written), and basic Hokkien (spoken)
+· Programming Langugae: BASH, Python, Java, C++, Docker, SQL
+· Cloud Computing: Amazon Web Services, Azure Cloud Computing
+· Monitoring and Visualisation: Prometheus.io, Grafana, PowerBI
+
+
+
+
+

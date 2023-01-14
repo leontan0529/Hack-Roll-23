@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> ePortfolio </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel = "stylesheet" type="text/css" href = "{{ url_for('static', filename='styles/home.css') }}">
+
+</head>
+<body>
+
+<div class = "header">
+  <h1> Name </h1>
+  <p> My E-Portfolio </p>
+</div>
+
+<div class="navbar">
+  <a class = "navbarindiv" href = "home.html"><span style = "color: black"> Home </span></a>
+  <a href = "{{ url_for('education') }}"><span style = "color: black"> Education </span></a>
+  <a href = "{{ url_for('experience') }}"><span style = "color: black"> Past Experiences </span> </a>
+  <a href = "{{ url_for('awards') }}"><span style = "color: black">Awards and Honours</span></a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <img class = "img1" src = "https://www.shutterstock.com/image-photo/portrait-happy-arab-freelancer-man-600w-2055846701.jpg">
+    <p> This is me. </p>
+
+   
+  </div>
+  <div class="main">
+    <h2> Welcome to my ePortfolio! </h2>
+    <div class="img2" style="height:200px;">Image</div>
+    <p>Some text..</p>
+    <br>
+  </div>
+</div>
+
+</body>
+</html>
+
